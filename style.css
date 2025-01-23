@@ -1,0 +1,13 @@
+#hero {
+    background: url('https://picsum.photos/seed/picsum/1920/1080') no-repeat;
+    background-size: cover;
+}
+
+.profile-img {
+    height: 200px;
+    width: 200px;
+}
+
+#skills {
+    background: rgba(50, 50, 50, 0.02);
+}
